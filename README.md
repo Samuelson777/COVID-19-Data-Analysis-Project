@@ -37,6 +37,8 @@ This project provides an analysis of COVID-19 data, including visualizations and
 
 ![COVID-19 Data Analysis Power Bi Dashboard Screenshot](https://github.com/user-attachments/assets/2a0ef35c-66fa-4250-866e-1c76be00ded4)
 
+[PowerBi Dashboard](https://app.powerbi.com/links/BEPghR7s9i?ctid=f7fe0035-f020-4c1d-8988-3b08b4ab38d9&pbi_source=linkShare)
+
 ## Insights
 
 ### Overview
