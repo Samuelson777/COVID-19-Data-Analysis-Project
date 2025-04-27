@@ -64,3 +64,6 @@ The COVID-19 Data Analysis Project aims to provide a comprehensive understanding
 The COVID-19 Data Analysis Project serves as a valuable resource for understanding the pandemic's impact through data. By providing insights into trends, geographical differences, and the effects of public health interventions, the project aims to support informed decision-making for individuals, healthcare professionals, and policymakers. 
 As the situation evolves, continuous updates and analyses will be essential to adapt to new challenges and insights in the fight against COVID-19.
 This is just an aftermath speculation.(For future reference)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/COVID-19-Data-Analysis-Project/blob/main/LICENSE) file for details.
